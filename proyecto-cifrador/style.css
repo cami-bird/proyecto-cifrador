@@ -1,0 +1,275 @@
+html {
+    width: 900px;
+}
+
+header {
+    padding: 30px 0;
+}
+
+
+
+body{
+    height: 550px;
+    background-image: url("imagenes/fondocifrador.jpg");
+    background-size: 1600px;
+    background-repeat: no-repeat;
+    background-position: 22%;
+    
+    
+}
+
+.titulo {
+    position: relative;
+    left: 420px;
+    bottom: 100px;
+    color: lightblue;
+    text-shadow: 0 0 5px rgba(0, 178, 255, 1),
+    0 0 10px rgba(0, 178, 255, 1),
+    0 0 20px rgba(0, 178, 255, 1),
+    0 0 40px rgba(38, 104, 127, 1),
+    0 0 80px rgba(38, 104, 127, 1),
+    0 0 90px rgba(38, 104, 127, 1),
+    0 0 100px rgba(38, 104, 127, 1),
+    0 0 140px rgba(38, 104, 127, 1),
+    0 0 180px rgba(38, 104, 127, 1);
+    font-family: 'Neonderthaw',
+    cursive;
+    font-family: 'Rampart One',
+    cursive;
+    font-family: 'Tourney',
+    cursive;
+
+}
+
+.form-box{
+    position: relative;
+    left: 10%;
+    margin: 200px 0 0 0 ;
+}
+
+
+#textoAqui{
+    position: relative;
+    font-size: 22px;
+    bottom: 220px;
+    color: lightblue;
+    text-shadow: 0 0 5px rgba(0, 178, 255, 1),
+    0 0 10px rgba(0, 178, 255, 1),
+    0 0 20px rgba(0, 178, 255, 1),
+    0 0 40px rgba(38, 104, 127, 1),
+    0 0 80px rgba(38, 104, 127, 1),
+    0 0 90px rgba(38, 104, 127, 1),
+    0 0 100px rgba(38, 104, 127, 1),
+    0 0 140px rgba(38, 104, 127, 1),
+    0 0 180px rgba(38, 104, 127, 1);
+    font-family: 'Neonderthaw',
+    cursive;
+    font-family: 'Rampart One',
+    cursive;
+    font-family: 'Tourney',
+    cursive;
+}
+
+.text-input{
+    position: relative;
+    left: 20px;
+    width: 300px;
+    height: 100px;
+    bottom: 210px;
+    color: white;
+}
+.text-input,::placeholder{
+    text-align: center;
+    padding: 25px 0 0 0;
+    color: lightblue;
+    text-shadow: 0 0 2px rgba(0, 178, 255, 1),
+    0 0 3px rgba(0, 178, 255, 1),
+    0 0 4px rgba(0, 178, 255, 1),
+    0 0 27px rgba(38, 104, 127, 1),
+    0 0 67px rgba(38, 104, 127, 1),
+    0 0 77px rgba(38, 104, 127, 1),
+    0 0 87px rgba(38, 104, 127, 1),
+    0 0 127px rgba(38, 104, 127, 1),
+    0 0 167px rgba(38, 104, 127, 1);
+}
+
+#input-texto{
+    font-size: 20px;
+    background:transparent;
+    font-family: "Neonderthaw",
+    cursive;
+    font-family: "Rampart One",
+    cursive;
+    font-family: "Tourney",
+    cursive;
+    text-shadow: 0 0 2px rgba(0, 178, 255, 1),
+    0 0 5px rgba(0, 178, 255, 1),
+    0 0 5px rgba(0, 178, 255, 1),
+    0 0 27px rgba(38, 104, 127, 1),
+    0 0 67px rgba(38, 104, 127, 1),
+    0 0 77px rgba(38, 104, 127, 1),
+    0 0 87px rgba(38, 104, 127, 1),
+    0 0 127px rgba(38, 104, 127, 1),
+    0 0 167px rgba(38, 104, 127, 1);
+}
+
+.text-input-salida{
+    font-size: 20px;
+    background:transparent;
+    color: white;
+    font-family: 'Neonderthaw',
+    cursive;
+    font-family: 'Rampart One',
+    cursive;
+    font-family: 'Tourney',
+    cursive;
+    text-shadow: 0 0 2px rgba(0, 178, 255, 1),
+    0 0 5px rgba(0, 178, 255, 1),
+    0 0 5px rgba(0, 178, 255, 1),
+    0 0 37px rgba(38, 104, 127, 1),
+    0 0 77px rgba(38, 104, 127, 1),
+    0 0 87px rgba(38, 104, 127, 1),
+    0 0 97px rgba(38, 104, 127, 1),
+    0 0 137px rgba(38, 104, 127, 1),
+    0 0 177px rgba(38, 104, 127, 1);
+}
+
+.mensaje-box {
+    position: absolute;
+    width: 370px;
+    height: 500px;
+    left: 850px;
+    top: 93px;
+    box-shadow: 0 24px 32px -8px;
+    border-radius: 32px;
+}
+#textoEspera{
+    position: relative;r
+    width: 336px;
+    height: 122px;
+    left: 40px;
+    top: 70px;
+    font-size: 22px;
+    color: lightblue;
+    text-shadow: 0 0 5px rgba(0, 178, 255, 1),
+    0 0 10px rgba(0, 178, 255, 1),
+    0 0 20px rgba(0, 178, 255, 1),
+    0 0 40px rgba(38, 104, 127, 1),
+    0 0 80px rgba(38, 104, 127, 1),
+    0 0 90px rgba(38, 104, 127, 1),
+    0 0 100px rgba(38, 104, 127, 1),
+    0 0 140px rgba(38, 104, 127, 1),
+    0 0 180px rgba(38, 104, 127, 1);
+    font-family: 'Neonderthaw',
+    cursive;
+    font-family: 'Rampart One',
+    cursive;
+    font-family: 'Tourney',
+    cursive;
+}
+
+.text-input-salida{
+    position: relative;
+    left: 32px;
+    height: 100px;
+    width: 300px;
+}
+
+.btnEncriptar {
+    position: absolute;
+    width: 250px;
+    height: 67px;
+    left: 25px;
+    top: 100px;
+    border-radius: 100px;
+    box-shadow: 0 0 5px rgba(0, 178, 255, 1),
+    0 0 10px rgba(0, 178, 255, 1),
+    0 0 20px rgba(0, 178, 255, 1),
+    0 0 40px rgba(38, 104, 127, 1),
+    0 0 80px rgba(38, 104, 127, 1),
+    0 0 90px rgba(38, 104, 127, 1),
+    0 0 100px rgba(38, 104, 127, 1),
+    0 0 140px rgba(38, 104, 127, 1),
+    0 0 180px rgba(38, 104, 127, 1);
+        font-family: 'Neonderthaw',
+        cursive; 
+        font-family: 'Rampart One',
+        cursive;
+        font-family: 'Tourney',
+        cursive;
+    font-size: 25px;
+    color: #FF00FF;
+}
+
+.btnDesencriptar {
+    position: absolute;
+    width: 250px;
+    height: 67px;
+    left: 380px;
+    top: 100px;
+    border-radius: 100px;
+    box-shadow: 0 0 5px rgba(0, 178, 255, 1),
+    0 0 10px rgba(0, 178, 255, 1),
+    0 0 20px rgba(0, 178, 255, 1),
+    0 0 40px rgba(38, 104, 127, 1),
+    0 0 80px rgba(38, 104, 127, 1),
+    0 0 90px rgba(38, 104, 127, 1),
+    0 0 100px rgba(38, 104, 127, 1),
+    0 0 140px rgba(38, 104, 127, 1),
+    0 0 180px rgba(38, 104, 127, 1);
+        font-family: 'Neonderthaw',
+        cursive;
+        font-family: 'Rampart One',
+        cursive;
+        font-family: 'Tourney',
+        cursive;
+    font-size: 25px;
+    color: #FF00FF; 
+}
+
+.btnCopiar {
+    position: absolute;
+    width: 250px;
+    height: 67px;
+    left: 65px;
+    top: 400px;
+    border-radius: 100px;
+    box-shadow: 0 0 5px rgba(0, 178, 255, 1),
+    0 0 10px rgba(0, 178, 255, 1),
+    0 0 20px rgba(0, 178, 255, 1),
+    0 0 40px rgba(38, 104, 127, 1),
+    0 0 80px rgba(38, 104, 127, 1),
+    0 0 90px rgba(38, 104, 127, 1),
+    0 0 100px rgba(38, 104, 127, 1),
+    0 0 140px rgba(38, 104, 127, 1),
+    0 0 180px rgba(38, 104, 127, 1);
+            font-family: 'Neonderthaw',
+            cursive;
+            
+            font-family: 'Rampart One',
+            cursive;
+            
+            font-family: 'Tourney',
+            cursive;
+    font-size: 25px;
+    text-align: center;
+    color: #FF00FF;
+}
+
+.footer{
+    position: relative;
+    text-align: center;
+    left: 160px;
+    color: white;
+    top: 2px;
+    font-size: 10px;
+    
+    font-family: 'Neonderthaw',
+    cursive;
+    
+    font-family: 'Rampart One',
+    cursive;
+    
+    font-family: 'Tourney',
+    cursive;
+}
